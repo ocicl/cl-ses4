@@ -1,0 +1,9 @@
+* cl-ses4
+
+AWS SES email sender for Common Lisp, using Signature Version 4 of Amazon's API
+
+|---------+-----------------------------------------|
+| source  | git:https://github.com/Jach/cl-ses4.git |
+| commit  | ce1d786                                 |
+| systems | cl-ses4                                 |
+|---------+-----------------------------------------|
